@@ -25,3 +25,4 @@ Ergonomic split-keyboards have multiple concise *advantages* to regular conventi
 
 A wireless 36 key column staggered ergonomic split-keyboard.
 
+## Parts Used
