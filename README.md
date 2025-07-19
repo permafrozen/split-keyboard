@@ -49,7 +49,7 @@ A wireless 36 key column staggered ergonomic split-keyboard.
 - 2x **FR-4 switch plate** *(submodule>frontplate)*
 - 2x **nice!view screens**: [view](https://typeractive.xyz/products/nice-view)
 
-### Cheaper Alternative: €146.68 *(Fr 18 Jul 2025 22:04:10 CEST)*
+### Cheaper Alternative: €100.05 + gerber *(Fr 18 Jul 2025 22:04:10 CEST)*
 - 2x **PCB**: see `temper` gerber *(submodule>release)*;
 - 2x **"nice!nano"**: tenstar robot NRF52840 [v2.0](https://de.aliexpress.com/item/1005008099333183.html?spm=a2g0o.cart.0.0.77534ae41SSyUc&mp=1&pdp_npi=5%40dis%21EUR%21EUR%202.28%21EUR%202.28%21%21EUR%202.28%21%21%21%40210385db17529069809245997e0088%2112000043736225747%21ct%21AT%216354448385%21%212%210&gatewayAdapt=glo2deu)
 - 2x **LiPo batteries**: used [3.7v lithium rechargeable battery](https://de.aliexpress.com/item/1005008785016335.html?spm=a2g0o.productlist.main.1.9beeG9r5G9r5eh&algo_pvid=ac1f44e3-fba2-4d23-9f27-b83f57368fe6&algo_exp_id=ac1f44e3-fba2-4d23-9f27-b83f57368fe6-0&pdp_ext_f=%7B%22order%22%3A%2227%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2114.06%217.03%21%21%21114.72%2157.36%21%402103864c17528658150088401e63bc%2112000046655099198%21sea%21AT%216354448385%21X&curPageLogUid=zQZFeTEpTPQU&utparam-url=scene%3Asearch%7Cquery_from%3A)
